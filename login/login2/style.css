@@ -1,0 +1,17 @@
+.icon-left{
+    float: left;
+    
+}
+.head{
+    padding: 5rem 0 0 2rem;
+    padding-left: 0%;
+}
+.text{
+    padding: 2rem 0 0 ;
+    padding-left: 0%;
+}
+.right{
+    /*position: absolute;*/
+    bottom: 0;
+    padding-top: 5rem;
+}
